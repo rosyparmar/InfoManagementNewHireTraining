@@ -1,6 +1,7 @@
 # InfoManagementNewHireTraining [![red](https://img.shields.io/badge/knowledge-is%20power-red.svg)](https://github.com/unofficialoraclecloudhub/InfoManagementNewHireTraining)  
 IM hub Training repo prepared by Restonhub IM team  
 <img src="common/logo-new-v2.svg" align="right" style="height: 6em;"/>
+The repo can be found at [InfoManagementNewHireTraining](https://github.com/unofficialoraclecloudhub/InfoManagementNewHireTraining)
 
 ## About 
 Under the wisdom of our fearless leader we prepare to arm the next wave of recruits with 
