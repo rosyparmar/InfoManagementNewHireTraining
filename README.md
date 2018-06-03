@@ -28,7 +28,7 @@ Here we heavily borrow from Pat Davies and team on
 Who have 3 workshops built around Oracle DB. 
 * [dbcs](https://github.com/oracle/learning-library/tree/master/workshops/dbcs) 
 which introduces DBCS, covers cloud migration, and goes over backup & recovery
-* [dbcs-dba](https://github.com/oracle/learning-library/tree/master/workshops/dbcs-dbaa)
+* [dbcs-dba](https://github.com/oracle/learning-library/tree/master/workshops/dbcs-dba)
 where you create a DBCS, migrate PDBs, and performat DBA tasks with the CLI 
 * [dbcs-in-memory](https://github.com/oracle/learning-library/tree/master/workshops/dbcs-in-memory) 
 which is short but shows you how fast in-memory data is!
@@ -100,7 +100,7 @@ you get set up.
 
 
 Once you've got your cloud environment you're ready to get started. 
-Go ahead to [welcome-to-im](/welcome-to-im) to get started  
+Go ahead to [welcome-to-im](https://github.com/unofficialoraclecloudhub/InfoManagementNewHireTraining/tree/master/welcome-to-im) to go to Github repo or click below to go the github.io website.  
 
 <p align="center">
   <a href="https://unofficialoraclecloudhub.github.io/InfoManagementNewHireTraining/welcome-to-im/"><img alt="get started" width="200" src="common/start-button.svg" /></a> [1]
