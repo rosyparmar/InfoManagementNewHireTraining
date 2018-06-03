@@ -159,7 +159,7 @@ to see the latest portfolio)
 
 ## Series 2 - Oracle Cloud Infrastructure (OCI) Storage - Object Store
 
-To get started, check out our [Object Storage Workshop](https://github.com/unofficialoraclecloudhub/InfoManagementNewHireTraining/blob/master/object-storage/ObjectStorageLab.md)
+To get started, check out our [Object Storage Workshop](https://unofficialoraclecloudhub.github.io/InfoManagementNewHireTraining/object-storage/ObjectStorageLab) GitHub pages website URL.
 
 [Oracle's object storage](https://docs.us-phoenix-1.oraclecloud.com/Content/Object/Concepts/objectstorageoverview.htm)  
 Object storage is pretty simple - think of it like a filesystem in the cloud.
@@ -196,7 +196,7 @@ to size or demo this.
 [https://oracle.github.io/learning-library/workshops/dbcs/](https://oracle.github.io/learning-library/workshops/dbcs/)
 1. In-memory! :fire: 
 [https://oracle.github.io/learning-library/workshops/dbcs-in-memory/](https://oracle.github.io/learning-library/workshops/dbcs-in-memory/)
-1. Montor the database and the OS with [dbaas_monitor](https://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/csdbi/access-dbaas-monitor.html)
+1. Monitor the database and the OS with [dbaas_monitor](https://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/csdbi/access-dbaas-monitor.html)
 1. Working with PL/SQL in [Enterprise Monitor](https://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/csdbi/access-em-database-express-12c.html)
 1. Create a connection to your database [with SQL Developer](https://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/csdbi/connect-db-using-sql-developer.html)
 
@@ -216,8 +216,10 @@ on ExaData Cloud Service and EM
 Once more over Oracle Database.
 #### Directions
 1. Head over to
-[https://unofficialoraclecloudhub.github.io/autonomous-campaign/workshops/adwc-trialcampaigns/](https://unofficialoraclecloudhub.github.io/autonomous-campaign/workshops/adwc-trialcampaigns/)
-and follow the instructions! Make sure to ask for help from or give help to your neighbor :wave:
+[GitHub Pages website for ADWC Workshop](https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=README.md)
+and follow the instructions!
+The repo can be found at [journey4-adwc](https://github.com/oracle/learning-library/tree/master/workshops/journey4-adwc).
+Make sure to ask for help from or give help to your neighbor :wave:
 
 ## Series 6 - Advanced Analytics - ORAAH, ORE, ODM, Spatial & Graph
 Our team is new to 
