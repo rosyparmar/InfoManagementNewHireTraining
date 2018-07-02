@@ -241,10 +241,6 @@ OAA is really an umbrella term for a few different products:
 :dancer: Oracles Big Data Cloud :raised_hands:
 #### Directions
 1. Get pumped. Working with BDC is fun :joy:
-1. Take a look at the code for [journey2-new-data-lake](https://github.com/millerhoo/journey2-new-data-lake)
-    * this is Paul Miller's branch and is typically the most up to date
-    * this workshop provides great tips and tricks for working with BDC
-    * I refer to this workshop almost every day
 1. Visit the github pages site for 
 [journey2-new-data-lake](https://millerhoo.github.io/journey2-new-data-lake/workshops/journey2-new-data-lake/?page=README.md)
 and follow the instructions to get started!
